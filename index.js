@@ -181,7 +181,6 @@ function setTwo() {
             }
         }
         if (gameOver) {
-            prompt("Game Over!");
             alert("Game Over!");
             return;
         }
